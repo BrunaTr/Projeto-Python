@@ -34,5 +34,5 @@ Repositório: [BrunaTr/Projeto-Python](https://github.com/BrunaTr/Projeto-Python
 ## 🖼️ Demonstração
 
 <p align="center">
-  <img src="(https://i.imgur.com/IH7Kyqt.jpeg" alt="Comando cd" width="600"/>
+  <img src="https://i.imgur.com/IH7Kyqt.jpeg" alt="Comando cd" width="600"/>
 </p>
